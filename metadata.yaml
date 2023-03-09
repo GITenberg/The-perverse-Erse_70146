@@ -1,0 +1,30 @@
+_repo: The-perverse-Erse_70146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coblentz, Adrien
+    gutenberg_agent_id: '55625'
+    url: http://www.gutenberg.org/2009/agents/55625
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70146'
+language: en
+pgterms:marc905: 20220527075014coblentz
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bGreat American Publications, Inc., $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Irish Americans -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The perverse Erse
+url: http://www.gutenberg.org/ebooks/70146
