@@ -1,11 +1,16 @@
 _repo: The-perverse-Erse_70146
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70146-h/images/cover.jpg
 creator:
   author:
     agent_name: Coblentz, Adrien
     gutenberg_agent_id: '55625'
     url: http://www.gutenberg.org/2009/agents/55625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70146#The-perverse-Erse
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70146'
